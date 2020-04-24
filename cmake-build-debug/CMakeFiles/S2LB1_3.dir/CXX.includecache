@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Michael/CLionProjects/S2LB1_3/NullPointErexception.h
+
+C:/Users/Michael/CLionProjects/S2LB1_3/Num.cpp
+Num.h
+C:/Users/Michael/CLionProjects/S2LB1_3/Num.h
+NullPointErexception.h
+C:/Users/Michael/CLionProjects/S2LB1_3/NullPointErexception.h
+
+C:/Users/Michael/CLionProjects/S2LB1_3/Num.h
+
+C:/Users/Michael/CLionProjects/S2LB1_3/main.cpp
+iostream
+-
+Num.h
+C:/Users/Michael/CLionProjects/S2LB1_3/Num.h
+Num.cpp
+C:/Users/Michael/CLionProjects/S2LB1_3/Num.cpp
+
