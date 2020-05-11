@@ -11,7 +11,7 @@ private:
     static int num;
 public:
     static int getNum();
-    Num();
+//    Num();
     Num(int num);
 };
 
